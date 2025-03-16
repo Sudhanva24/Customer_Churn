@@ -79,7 +79,7 @@ and numerical (eg. ANOVA and Kruskal Wallis Tests)
 
 #### Test Set Results
 
-/Users/sudhanvasavyasachi/Desktop/Projects/Customer_Churn/utils/Screenshot 2025-03-16 at 5.23.07 PM.png
+![alt text](<utils/Screenshot 2025-03-16 at 5.23.07 PM.png>)
 
 ### Modelling 2
 
